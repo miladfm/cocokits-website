@@ -1,1 +1,12 @@
-{"type": "commonjs"}
+{
+  "name": "my-next-app",
+  "type": "commonjs",
+  "scripts": {
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "^14.0.0",
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0"
+    }
+}
