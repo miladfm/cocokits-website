@@ -3,7 +3,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "next start",
-    "build": ""
+    "build": "echo 'Logging a message...'"
   },
   "dependencies": {
     "next": "^14.0.0",
